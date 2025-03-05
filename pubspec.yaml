@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  detect_fake_location: ^1.0.1 #for mock location (for now)
+  detect_fake_location: ^2.1.0
 
 dev_dependencies:
   flutter_test:
